@@ -41,3 +41,18 @@
 #article-2-image {
   background-color: aquamarine;
 }
+
+/* bagian navbar  */
+#navbar-nav {
+  background-color: rgb(231, 171, 42);
+}
+
+#garis-navbar {
+  margin: 0px 0px;
+  height: 3px;
+  opacity: 0.5;
+}
+
+#Getstarted {
+  border-radius: 20px;
+}
