@@ -1,11 +1,3 @@
-#title {
-  background-color: bisque;
-}
-
-#contents-1 {
-  background-color: antiquewhite;
-}
-
 #contents-2 {
   background-color: rgb(233, 163, 71);
 }
@@ -76,4 +68,45 @@
 
 section.bg-nav {
   background-color: rgb(231, 171, 42);
+}
+
+/*bagian trending */
+
+#contents {
+  padding: 2em;
+}
+
+#contents-1 {
+  margin: 1em 0;
+  padding: 1em;
+}
+
+#contents-1-number {
+  color: grey;
+  opacity: 0.25;
+}
+
+#contents-1-contents {
+  padding-top: 0.5em;
+}
+
+#contents-1-content-title {
+  font-size: 1.2em;
+  margin-bottom: 0;
+}
+
+/*layout website */
+@media screen and(min-width:1400px) {
+  #carousel-left-button {
+    margin: 1em 0;
+    width: 20%;
+  }
+
+  #carousel {
+    margin: 2em 0;
+  }
+
+  #contents-1 {
+    padding: 1em;
+  }
 }
