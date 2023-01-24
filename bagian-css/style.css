@@ -56,3 +56,24 @@
 #Getstarted {
   border-radius: 20px;
 }
+
+#bt-carousel {
+  margin: 1em 0;
+  border-radius: 20px;
+  width: 30%;
+}
+
+#saya {
+  min-height: 30vh;
+  padding-top: 50px;
+  font-size: 20px;
+}
+
+#garis-staycurios {
+  height: 3px;
+  opacity: 0.5;
+}
+
+section.bg-nav {
+  background-color: rgb(231, 171, 42);
+}
