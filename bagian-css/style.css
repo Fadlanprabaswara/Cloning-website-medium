@@ -36,7 +36,7 @@
 
 /* bagian navbar  */
 #navbar-nav {
-  background-color: rgb(231, 171, 42);
+  background-color: rgb(247, 193, 79);
 }
 
 #garis-navbar {
@@ -67,7 +67,7 @@
 }
 
 section.bg-nav {
-  background-color: rgb(231, 171, 42);
+  background-color: rgb(247, 193, 79);
 }
 
 /*bagian trending */
@@ -93,6 +93,12 @@ section.bg-nav {
 #contents-1-content-title {
   font-size: 1.2em;
   margin-bottom: 0;
+}
+
+/* bagian multi-section*/
+#article {
+  background-color: #f7f9fa;
+  padding: 1em 2em;
 }
 
 /*layout website */
