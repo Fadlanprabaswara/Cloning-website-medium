@@ -95,10 +95,28 @@ section.bg-nav {
   margin-bottom: 0;
 }
 
-/* bagian multi-section*/
+/* bagian multi-section article*/
 #article {
   background-color: #f7f9fa;
   padding: 1em 2em;
+}
+
+/*bagian multi-section topik*/
+#discover-and-footer {
+  padding: 1em 2em;
+}
+
+#discover-and-footer-topic-badge-1 {
+  margin: 0.5em 0px;
+}
+
+#discover-and-footer-title-subscription {
+  margin-top: 0.5em;
+}
+
+#garis-footer-1 {
+  height: 3px;
+  opacity: 0.5;
 }
 
 /*layout website */
